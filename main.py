@@ -1,1 +1,1 @@
-print("Hare krishna")
+print("Hare krishna.")
